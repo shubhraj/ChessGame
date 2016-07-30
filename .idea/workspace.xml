@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="8478c464-8c15-4fc2-9a3b-db7408cb5e30" name="Default" comment="" />
+=======
     <list default="true" id="8478c464-8c15-4fc2-9a3b-db7408cb5e30" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Spot.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Bishop.java" afterPath="$PROJECT_DIR$/src/Bishop.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Knight.java" afterPath="$PROJECT_DIR$/src/Knight.java" />
     </list>
+>>>>>>> a73cefb5ae37c4f84ed7bfac6fa4fb3db8358578
     <ignored path="Chess.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
